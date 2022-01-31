@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=RestartButton
+comment0.text=\r\n\ Restart\ button\ allows\ player\ to\ fully\ reset\ the\ game\ at\ any\ time\ without\ making\ it\ stop\r\n\ @author\ Team\ Empirium\r\n\ @version\ (09/12/2020)\r\n
+comment1.params=
+comment1.target=RestartButton()
+comment1.text=\r\n\ Constructor\ sets\ the\ image\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ method\ runs\ constantly\r\n
+comment3.params=
+comment3.target=void\ restartButton()
+comment3.text=\r\n\ resets\ the\ game\ when\ it\ is\ clicked\r\n
+numComments=4

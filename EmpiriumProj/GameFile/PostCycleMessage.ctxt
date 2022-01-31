@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PostCycleMessage
+comment0.text=\r\n\ The\ PostCycleMessage\ shows\ up\ after\ each\ cycle\ of\ 3\ waves\ has\ been\ complete\r\n\ @author\ Team\ Empirium\ \r\n\ @version\ (09/12/2020)\r\n
+comment1.params=
+comment1.target=PostCycleMessage()
+comment1.text=\r\n\ Constructor\ for\ PostCycleMessage\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ act\ method\ is\ constantly\ being\ called\r\n
+comment3.params=
+comment3.target=void\ waveTime()
+comment3.text=\r\n\ identical\ to\ the\ waveTime\ method\ in\ MainWorld,\ counts\ seconds\ using\ framerate\ \r\n
+numComments=4

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=BobDance
+comment0.text=\r\n\ Uses\ the\ Heavy\ Attack\ from\ the\ Bobius\ class\ to\ dance\ on\ the\ Start\ Menu\r\n\ @author\ Team\ Empirium\r\n\ @version\ (09/12/2020)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ act\ method\ runs\ constantly\r\n
+comment2.params=
+comment2.target=void\ counter()
+comment2.text=\r\n\ Counts\ to\ 25\ and\ then\ resets\r\n
+numComments=3

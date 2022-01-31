@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=DeathScreen
+comment0.text=\r\n\ The\ DeathScreen\ World/Class\ is\ the\ screen\ that\ the\ player\ sees\ when\ they\ lose\ all\ their\ hp/lose\ the\ game\r\n\ Also\ includes\ special\ thanks\ to\ people\ outside\ the\ team\ who\ helped\ in\ it's\ development\r\n\ @author\ Team\ Empirium\ \ \r\n\ @version\ (09/12/2020)\r\n
+comment1.params=
+comment1.target=DeathScreen()
+comment1.text=\r\n\ Constructor\ that\ adds\ the\ restart\ button,\ plays\ the\ music,\ and\ displays\ the\ special\ thanks\ \r\n
+numComments=2

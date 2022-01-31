@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=NextWave
+comment0.text=\r\n\ NextWave\ applys\ the\ wave\ multiplier,and\ sets\ the\ world\ back\ to\ the\ mainWorld\r\n\ @author\ Team\ Empirium\r\n\ @version\ (09/12/2020)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ method\ runs\ constantly\r\n
+comment2.params=
+comment2.target=void\ nextWaveButton()
+comment2.text=\r\n\ Applies\ the\ wave\ multipliers\r\n
+numComments=3

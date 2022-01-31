@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=StartMenu
+comment0.text=\r\n\ The\ StartMenu\ World/Class\ is\ the\ main\ menu\ for\ the\ game,\ that\ allows\ you\ to\ view\ the\ credits,\ instructions,\ and\ to\ start\ the\ game\r\n\ @author\ Team\ Empirium\r\n\ @version\ (09/12/2020)\r\n
+comment1.params=
+comment1.target=StartMenu()
+comment1.text=\r\n\ Constructor\ for\ StartMenu\ that\ adds\ all\ the\ objects\r\n
+comment2.params=
+comment2.target=void\ reset()
+comment2.text=\r\n\ resets\ every\ static\ variable\ in\ the\ game\ to\ it's\ inital\ value\r\n
+numComments=3

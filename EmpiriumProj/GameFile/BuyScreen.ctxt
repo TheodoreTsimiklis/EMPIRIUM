@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BuyScreen
+comment0.text=\r\n\ The\ BuyScreen\ World/Class\ is\ the\ upgrade\ screen\ that\ the\ player\ gets\ after\ every\ wave\ to\ upgrade\ abilities\ using\ points\ accumulated\ during\ the\ round.\r\n\ @author\ Team\ Empirium\ \r\n\ @version\ (09/12/2020)\r\n
+comment1.params=
+comment1.target=BuyScreen()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ BuyScreen.\r\n
+comment2.params=
+comment2.target=void\ prepare()
+comment2.text=\r\n\ adds\ all\ the\ objects\ to\ the\ world\ and\ starts\ the\ menu\ music\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Displays\ the\ amount\ of\ points\ the\ player\ has\ available\ to\ spend\ on\ upgrades\r\n
+numComments=4

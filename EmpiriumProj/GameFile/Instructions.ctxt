@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Instructions
+comment0.text=\r\n\ Instructions\ button\ sets\ the\ world\ to\ the\ InstructionWorld\r\n\ @author\ Team\ Empirium\r\n\ @version\ (09/12/2020)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ method\ runs\ constantly\r\n
+comment2.params=
+comment2.target=void\ instructions()
+comment2.text=\r\n\ Sets\ the\ world\ to\ the\ instructionWorld\r\n
+comment3.params=
+comment3.target=void\ animation()
+comment3.text=\r\n\ Changes\ the\ image\ when\ the\ mouse\ hovers\ over\ the\ button\r\n
+numComments=4

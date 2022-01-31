@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=HeavyAttack
+comment0.text=\r\n\ Acts\ as\ a\ cooldown\ timer\ in\ the\ MainWorld,\ and\ an\ upgrade\ button\ on\ the\ BuyScreen\r\n\ @author\ Team\ Empirium\r\n\ @version\ (09/12/2020)\r\n
+comment1.params=
+comment1.target=HeavyAttack()
+comment1.text=\r\n\ Constructor\ that\ sets\ the\ image\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ Method\ runs\ constantly\r\n
+comment3.params=
+comment3.target=void\ cooldownAnimation()
+comment3.text=\r\n\ Animation\ for\ the\ cooldown\ in\ the\ MainWorld\r\n
+comment4.params=world
+comment4.target=void\ addedToWorld(greenfoot.World)
+comment4.text=\r\n\ Changes\ the\ size\ of\ the\ image\ depending\ on\ what\ world\ it\ is\ in\r\n
+numComments=5

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=InstructionWorld
+comment0.text=\r\n\ InstructionWorld\ displays\ all\ the\ keybinds\ so\ the\ player\ can\ learn\ the\ controls\ of\ the\ game\r\n\ @author\ Team\ Empirium\r\n\ @version\ (09/12/2020)\r\n
+comment1.params=
+comment1.target=InstructionWorld()
+comment1.text=\r\n\ Constructor\ for\ the\ InstructionWorld()\ adds\ all\ the\ objects\ into\ the\ world\r\n
+numComments=2

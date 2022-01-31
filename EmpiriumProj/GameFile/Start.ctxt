@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Start
+comment0.text=\r\n\ Start\ button\ starts\ the\ run\ of\ the\ game\r\n\ @author\ Team\ Empirium\r\n\ @version\ (09/12/2020)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ method\ runs\ constantly\r\n
+comment2.params=
+comment2.target=void\ startButton()
+comment2.text=\r\n\ Sets\ the\ world\ to\ the\ MainWorld\ \r\n
+comment3.params=
+comment3.target=void\ animation()
+comment3.text=\r\n\ Changes\ the\ image\ when\ your\ mouse\ hovers\ over\ the\ button\r\n
+numComments=4

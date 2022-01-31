@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Bird
+comment0.text=\r\n\ The\ bird\ travels\ along\ the\ x-axis,\ going\ to\ randomly\ generated\ points,\ and\ flying\ out\ of\ the\ world\ after\ a\ certain\ amount\ of\ time\r\n\ @author\ Team\ Empirium\r\n\ @version\ (09/12/2020)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ act\ method\ runs\ constantly\r\n
+comment2.params=
+comment2.target=void\ animateBird()
+comment2.text=\r\n\ Method\ for\ the\ bird\ animation\r\n
+comment3.params=
+comment3.target=void\ movement()
+comment3.text=\r\n\ Method\ for\ the\ bird's\ movement\r\n
+comment4.params=
+comment4.target=void\ removeAtEdge()
+comment4.text=\r\n\ Method\ to\ remove\ the\ bird\ when\ it\ reaches\ the\ edge\ of\ the\ world\r\n
+comment5.params=
+comment5.target=void\ twitchLOL()
+comment5.text=\r\n\ Easter\ Egg\ method,\ includes\ our\ socials\ as\ a\ neat\ little\ feature\ (SHHHHH)\r\n
+numComments=6

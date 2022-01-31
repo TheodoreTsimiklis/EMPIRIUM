@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=QRImage
+comment0.text=\r\n\ QRImage\ shows\ up\ when\ the\ player\ loses,\ and\ allows\ the\ player\ to\ reset\ the\ game\ \r\n\ @author\ Team\ Empirium\r\n\ @version\ (09/12/2020)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ method\ runs\ constantly\r\n
+numComments=2

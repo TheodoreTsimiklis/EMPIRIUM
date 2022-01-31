@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Dodge
+comment0.text=\r\n\ The\ Dodge\ object\ acts\ as\ a\ cooldown\ timer\ in\ the\ MainWorld,\ to\ allow\ the\ player\ to\ visually\ see\ when\ they\ will\ be\ able\ to\ roll\ next\r\n\ @author\ Team\ Empirium\r\n\ @version\ (09/12/2020)\r\n
+comment1.params=
+comment1.target=Dodge()
+comment1.text=\r\n\ Constructor\ that\ sets\ the\ image\ of\ the\ object\ when\ it\ is\ instatiated\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ method\ runs\ constantly\r\n
+comment3.params=
+comment3.target=void\ cooldownAnimation()
+comment3.text=\r\n\ Animation\ for\ the\ cooldown\ timer\r\n\ \r\n
+comment4.params=world
+comment4.target=void\ addedToWorld(greenfoot.World)
+comment4.text=\r\n\ Override\ method\ that\ changes\ the\ size\ of\ the\ object\ depending\ on\ what\ world\ it\ is\ in\r\n
+numComments=5

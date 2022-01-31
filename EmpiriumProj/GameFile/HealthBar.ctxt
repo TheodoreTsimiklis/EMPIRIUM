@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=HealthBar
+comment0.text=\r\n\ Healthbar\ floats\ above\ every\ character\ and\ changes\ depending\ on\ if\ damage\ was\ taken\ or\ not\r\n\ @author\ Team\ Empirium\r\n\ @version\ (09/12/2020)\r\n
+comment1.params=
+comment1.target=HealthBar()
+comment1.text=\r\n\ Constructor\ calling\ the\ update\ method\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ method\ runs\ constantly\r\n
+comment3.params=
+comment3.target=void\ update()
+comment3.text=\r\n\ Changes\ the\ health\ status\ when\ damage\ is\ taken\r\n
+numComments=4

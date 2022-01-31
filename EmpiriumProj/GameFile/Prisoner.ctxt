@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Prisoner
+comment0.text=\r\n\ Prisoner\ class\ is\ the\ main\ enemy's\ that\ spawn\ throughout\ a\ round\r\n\ @author\ Team\ Empirium\r\n\ @version\ (09/12/2020)\r\n
+comment1.params=
+comment1.target=Prisoner()
+comment1.text=\r\n\ Constructor\ that\ assigns\ a\ hitbox\ to\ the\ prisoner\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ method\ runs\ constantly\r\n
+comment3.params=
+comment3.target=boolean\ attackCollision()
+comment3.text=\r\n\ Similar\ to\ Bobius'\ attack\ collision,\ does\ damage\ to\ bobius\r\n
+numComments=4
